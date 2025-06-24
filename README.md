@@ -1,1 +1,0 @@
-# csa-project-notes-app
